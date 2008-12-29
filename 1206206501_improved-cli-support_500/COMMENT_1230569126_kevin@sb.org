@@ -1,0 +1,1 @@
+Detect the window width and use all the columns possible
